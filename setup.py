@@ -30,4 +30,4 @@ setuptools.setup(
         'Tracker': "https://github.com/franklintiel/django2-semantic-ui/issues"
     },
     packages=setuptools.find_packages(exclude=['contrib', 'docs', 'tests*']),
-    python_requires=">=3.*")
+    python_requires=">=3.0")
